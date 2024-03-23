@@ -1,19 +1,40 @@
 # Honeypot-and-Attack-Vector-Analysis
 
 
-# Project Objective
--Here you want to outline your project objective/goal - 
+#Project Objective
 
-Building a Comprehensive SIEM Solution. My goals are to centralize log collection, correlation, and analysis, enabling proactive threat detection, incident response, and improved overall cybersecurity posture.The project aims to provide real-time visibility into security events and enhance incident response capabilities.
+The Cowrie Honeypot Deployment and Attack Vector Analysis project is to create a controlled environment that attracts cyber attackers, allowing us to study their behavior, capture attack vectors, and enhance our network security awareness. By deploying the Cowrie honeypot, we aim to achieve the following:
+
+<b>1.Deployment and Configuration:</b>
+- Successfully set up and configure the Cowrie honeypot.
+- Customize banners, services, and responses to mimic real systems.
+- Ensure the honeypot is strategically placed within the network.
+<b>Attack Vector Analysis:</b>
+- Investigate real-world attack patterns and techniques.
+- Identify common attack vectors (e.g., brute force, vulnerability exploitation).
+- Analyze captured logs to gain insights into attacker behavior.
+<b>Monitoring and Insights:</b>
+- Regularly monitor honeypot logs.
+- Extract meaningful information from the data collected.
+- Understand how attackers target systems and adapt their tactics.
+<b>Lessons Learned and Recommendations:</b>
+- Importance of continuous monitoring and analysis.
+- Share insights with the cybersecurity community.
+- Balancing realism and security in honeypot configuration.
+<b><i>Through this project, we aim to contribute to the field of cybersecurity, enhance our skills, and better defend against evolving threats.</i></b> 🚀🔒
 
 # Tools 
--List of tools used within the project-
-e.g. Azure
+Hydra
+OWASP ZAP and Burp Suite
+Social Engineering
+Splunk 
 
 # Skills Gained
--List and explain the skills. Show why they are key for Cyber Security-
+Honeypot Deployment: Set up and configured Cowrie.
+Attack Vector Analysis: Investigated attack patterns and techniques.
+Captured multiple SSH brute force attempts, identifying common usernames and passwords.
+Detected web application scanning and exploitation using ZAP and Burp Suite.
+Crafted realistic phishing emails to observe attacker responses.
+Set up Splunk alerts for suspicious activities.
 
-Security Architecture - Developed a holistic security architecture that considered the entire system, addressing weaknesses and ensuring a cohesive security strategy.
 
-# Outcomes 
-- Talk about what you achieved, use screenshots!-
