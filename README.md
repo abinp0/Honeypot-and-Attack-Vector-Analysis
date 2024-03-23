@@ -24,6 +24,7 @@ The Cowrie Honeypot Deployment and Attack Vector Analysis project is to create a
 - Importance of continuous monitoring and analysis.
 - Share insights with the cybersecurity community.
 - Balancing realism and security in honeypot configuration.
+  
 <b><i>Through this project, we aim to contribute to the field of cybersecurity, enhance our skills, and better defend against evolving threats.</i></b> 🚀🔒
 
 # Tools 
