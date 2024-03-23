@@ -3,7 +3,10 @@
 
 #Project Objective
 
-The Cowrie Honeypot Deployment and Attack Vector Analysis project is to create a controlled environment that attracts cyber attackers, allowing us to study their behavior, capture attack vectors, and enhance our network security awareness. By deploying the Cowrie honeypot, we aim to achieve the following:
+The Cowrie Honeypot Deployment and Attack Vector Analysis project is to create a controlled environment that attracts cyber attackers, allowing us to study their behavior, capture attack vectors, and enhance our network security awareness.
+The project is to deploy a set of honeypots emulating various network services, including FTP, web, and SSH servers, to attract and analyze potential attacker behavior. By setting up these honeypots, we aim to identify common attack vectors, monitor malicious activities, and gain insights into the techniques used by attackers.
+
+By deploying the Cowrie honeypot, we aim to achieve the following:
 
 <b>1.Deployment and Configuration:</b>
 - Successfully set up and configure the Cowrie honeypot.
