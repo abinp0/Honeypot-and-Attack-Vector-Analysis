@@ -9,14 +9,17 @@ The Cowrie Honeypot Deployment and Attack Vector Analysis project is to create a
 - Successfully set up and configure the Cowrie honeypot.
 - Customize banners, services, and responses to mimic real systems.
 - Ensure the honeypot is strategically placed within the network.
+  
 <b>2.Attack Vector Analysis:</b>
 - Investigate real-world attack patterns and techniques.
 - Identify common attack vectors (e.g., brute force, vulnerability exploitation).
 - Analyze captured logs to gain insights into attacker behavior.
+  
 <b>3.Monitoring and Insights:</b>
 - Regularly monitor honeypot logs.
 - Extract meaningful information from the data collected.
 - Understand how attackers target systems and adapt their tactics.
+  
 <b>4.Lessons Learned and Recommendations:</b>
 - Importance of continuous monitoring and analysis.
 - Share insights with the cybersecurity community.
