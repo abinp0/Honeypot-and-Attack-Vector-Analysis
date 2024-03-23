@@ -30,6 +30,7 @@ By deploying the Cowrie honeypot, we aim to achieve the following:
   
 <b><i>Through this project, we aim to contribute to the field of cybersecurity, enhance our skills, and better defend against evolving threats.</i></b> 🚀🔒
 
+
 #Tools and Techniques
 
 - Cowrie Honeypot: Used to simulate SSH, Telnet, and FTP services, and capture attacker interactions.
