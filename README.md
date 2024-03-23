@@ -28,17 +28,17 @@ The Cowrie Honeypot Deployment and Attack Vector Analysis project is to create a
 <b><i>Through this project, we aim to contribute to the field of cybersecurity, enhance our skills, and better defend against evolving threats.</i></b> 🚀🔒
 
 # Tools 
-Hydra
-OWASP ZAP and Burp Suite
-Social Engineering
-Splunk 
+- Hydra
+- OWASP ZAP and Burp Suite
+- Social Engineering
+- Splunk 
 
 # Skills Gained
-Honeypot Deployment: Set up and configured Cowrie.
-Attack Vector Analysis: Investigated attack patterns and techniques.
-Captured multiple SSH brute force attempts, identifying common usernames and passwords.
-Detected web application scanning and exploitation using ZAP and Burp Suite.
-Crafted realistic phishing emails to observe attacker responses.
-Set up Splunk alerts for suspicious activities.
+- Honeypot Deployment: Set up and configured Cowrie.
+- Attack Vector Analysis: Investigated attack patterns and techniques.
+- Captured multiple SSH brute force attempts, identifying common usernames and passwords.
+- Detected web application scanning and exploitation using ZAP and Burp Suite.
+- Crafted realistic phishing emails to observe attacker responses.
+- Set up Splunk alerts for suspicious activities.
 
 
