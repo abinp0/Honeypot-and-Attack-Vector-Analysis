@@ -48,7 +48,33 @@ By deploying the Cowrie honeypot, we aim to achieve the following:
 - Scripting and Automation: Writing scripts to automate tasks related to log analysis and alerting.
 - Cloud Computing: Deployment and management of services in Azure Cloud, including the utilization of Splunk for log analysis.
 
+# Attacks
 
-# Conclusion:
+-FTP Server Honeypot:
+
+Brute force attacks
+
+- Directory traversal attacks
+- File upload/download attacks
+- Command injection attacks
+Fake Web Server:
+
+- SQL injection attacks
+- Cross-site scripting (XSS) attacks
+- Directory traversal attacks
+- File inclusion attacks
+Simulated SSH Server:
+
+- Brute force attacks
+- SSH key compromise
+- Reconnaissance scans
+- Privilege escalation attempts
+Network Services Emulation:
+
+- Network scans
+- Exploit attempts
+- Social engineering attacks
+
+# Conclusion
 The deployment of cybersecurity honeypots, coupled with the use of advanced log monitoring tools like Splunk in Azure Cloud, provides valuable insights into attacker behavior and helps organizations better understand and defend against potential threats. By analyzing the captured data and identifying common attack vectors, security teams can enhance their defensive strategies and mitigate the risks associated with cyber threats.
 
