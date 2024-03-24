@@ -52,23 +52,25 @@ By deploying the Cowrie honeypot, we aim to achieve the following:
 
 -FTP Server Honeypot:
 
-Brute force attacks
-
+- Brute force attacks
 - Directory traversal attacks
 - File upload/download attacks
 - Command injection attacks
+  
 Fake Web Server:
 
 - SQL injection attacks
 - Cross-site scripting (XSS) attacks
 - Directory traversal attacks
 - File inclusion attacks
+  
 Simulated SSH Server:
 
 - Brute force attacks
 - SSH key compromise
 - Reconnaissance scans
 - Privilege escalation attempts
+  
 Network Services Emulation:
 
 - Network scans
